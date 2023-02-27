@@ -1,0 +1,3 @@
+git config 
+git init 
+git commit
